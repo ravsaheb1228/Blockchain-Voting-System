@@ -1,0 +1,22 @@
+# Dependencies
+node_modules/
+*/node_modules/
+
+# Environment files
+.env
+.env.*
+
+# React build
+dist/
+build/
+
+# Hardhat generated files
+blockchain/artifacts/
+blockchain/cache/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
