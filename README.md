@@ -313,15 +313,17 @@ Add your project screenshots here.
 
 ### Voting Page
 
-![Voting Page](screenshots/voting-page.png)
+![Voting Page](screenshots/login-page.png)
 
 ### MetaMask Transaction
 
-![MetaMask Transaction](screenshots/metamask.png)
+![MetaMask Transaction](screenshots/transaction.png)
+
+![Voting Page](screenshots/Voting-page.png)
 
 ### Voting Results
 
-![Voting Results](screenshots/results.png)
+![Voting Results](screenshots/result.png)
 
 > Replace the image paths with your actual screenshot locations.
 
