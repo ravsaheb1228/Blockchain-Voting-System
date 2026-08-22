@@ -311,7 +311,7 @@ If the same wallet tries to vote again, the smart contract rejects the transacti
 
 Add your project screenshots here.
 
-### Voting Page
+### Login Page
 
 ![Voting Page](screenshots/login-page.png)
 
